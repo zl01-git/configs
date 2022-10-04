@@ -1,0 +1,12 @@
+
+# add this code to ~/.bashrc
+#
+#if [ -f ~/.customAliases ]; then
+#    . ~/.customAliases
+#fi
+
+
+
+alias l='ls -a'
+alias ll='ls -lah'
+
